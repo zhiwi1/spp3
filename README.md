@@ -1,4 +1,4 @@
 # spp3
 ## bsuir
-### assempby browser
+### assemply browser
 Created by Zhyuliuk Ivan
